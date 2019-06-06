@@ -1,4 +1,4 @@
-# Improved detection of farside active regions using deep1learning analysis
+# Improved detection of farside active regions using deep learning analysis
 
 
 ## Introduction
